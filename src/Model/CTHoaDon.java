@@ -12,7 +12,7 @@ public class CTHoaDon {
     private int maHoaDon;
     private String maVatTu;
     private int soLuong;
-    private float donGia;
+    private float donGia; 
     private float thanhTien;
 
 
